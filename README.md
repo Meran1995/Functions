@@ -22,3 +22,5 @@ In this course i will getting how i can use:
 - Node.js: Whilst focusing on the browser-side for the majority of the course (because the syntax is the same), we'll also have a dedicated section on Node.js to learn all about that JS host environment
 - Security & Performance Optimizations: Of course security matters, so does performance - no surprise that both is covered in the course!
 - Automated Testing: Testing manually is hard work and can be unreliable - in this course you'll also get an introduction into automated testing
+
+But im at 65% and far from done. Im goning to continue it further!!
