@@ -23,4 +23,7 @@ In this course i will getting how i can use:
 - Security & Performance Optimizations: Of course security matters, so does performance - no surprise that both is covered in the course!
 - Automated Testing: Testing manually is hard work and can be unreliable - in this course you'll also get an introduction into automated testing
 
-But im at 65% and far from done. Im goning to continue it further!!
+The Course from Maximilian Schwarzmüller is Completed!!
+It was a fun and exiting course! I LEARNT A LOT
+
+What now? Learn a lot more to become a good developer!! Next...!!
