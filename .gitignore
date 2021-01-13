@@ -1,13 +1,13 @@
 # dependencies
-/node_modules/
-/.pnp
+node_modules
+.pnp
 .pnp.js
 
 # testing
-/coverage
+coverage
 
 # production
-/build
+build
 
 # misc
 .DS_Store
@@ -22,7 +22,7 @@ yarn-error.log*
 
 package-lock.json
 package.json
-/lib/
+lib
 .vscode
 webpack.config.
 webpack.config.prod
