@@ -26,3 +26,4 @@ lib
 .vscode
 webpack.config.
 webpack.config.prod
+.eslintrc.json
